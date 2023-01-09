@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.80ca05d6.css",
-    "main.js": "/static/js/main.3807991b.js",
-    "static/media/dude.png": "/static/media/dude.cdc6f1216f9b703ddc94.png",
-    "static/media/arrow.svg": "/static/media/arrow.9b4362f4811a129041e64e6b6a906da6.svg",
-    "static/media/logo.svg": "/static/media/logo.034ef726eb08f413c8e9ff1b0abe7414.svg",
-    "static/media/Untitled-1.svg": "/static/media/Untitled-1.6c89f59f49c8f2b3ae828c02e81276c0.svg",
-    "index.html": "/index.html",
-    "main.80ca05d6.css.map": "/static/css/main.80ca05d6.css.map",
-    "main.3807991b.js.map": "/static/js/main.3807991b.js.map"
+    "main.css": "/millionaireweb3.com/static/css/main.80ca05d6.css",
+    "main.js": "/millionaireweb3.com/static/js/main.35fa1547.js",
+    "static/media/dude.png": "/millionaireweb3.com/static/media/dude.cdc6f1216f9b703ddc94.png",
+    "static/media/arrow.svg": "/millionaireweb3.com/static/media/arrow.9b4362f4811a129041e64e6b6a906da6.svg",
+    "static/media/logo.svg": "/millionaireweb3.com/static/media/logo.034ef726eb08f413c8e9ff1b0abe7414.svg",
+    "static/media/Untitled-1.svg": "/millionaireweb3.com/static/media/Untitled-1.6c89f59f49c8f2b3ae828c02e81276c0.svg",
+    "index.html": "/millionaireweb3.com/index.html",
+    "main.80ca05d6.css.map": "/millionaireweb3.com/static/css/main.80ca05d6.css.map",
+    "main.35fa1547.js.map": "/millionaireweb3.com/static/js/main.35fa1547.js.map"
   },
   "entrypoints": [
     "static/css/main.80ca05d6.css",
-    "static/js/main.3807991b.js"
+    "static/js/main.35fa1547.js"
   ]
 }
