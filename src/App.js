@@ -33,6 +33,7 @@ import {
   DrawerFooter,
   useDisclosure,
   Input,
+  extendTheme,
 } from '@chakra-ui/react';
 import { ColorModeSwitcher } from './ColorModeSwitcher';
 import { Logo } from './Logo';
@@ -135,8 +136,8 @@ function App() {
 
     return (
 
-      <ChakraProvider id="body">
-
+      <ChakraProvider theme={theme}>
+        <ColorModeSwitcher />
 
         <Box id="hide" position="sticky" top="0">
           <HStack display="flex" justifyContent="space-evenly">
@@ -309,7 +310,10 @@ function App() {
                 Great.
               </Highlight>
               <Heading>
-                Contact me through my Instagram DM's: <Link href="https://www.instagram.com/1take.carl">@1take.carl</Link>
+                Contact me through my Instagram DM's: <Link href="https://www.instagram.com/millionareweb3">@millionareweb3</Link>
+              </Heading>
+              <Heading>
+                Let's get to work!
               </Heading>
             </Heading>
           </Heading>
