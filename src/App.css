@@ -3,7 +3,7 @@
     transition: opacity 0.2s linear;
 }
 
-.root{
+#body{
     background-color: #1A202C;
 }
 
