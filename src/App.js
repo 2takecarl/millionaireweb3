@@ -136,7 +136,7 @@ function App() {
 
     return (
 
-      <ChakraProvider>
+      <ChakraProvider theme={theme}>
         <ColorModeSwitcher />
 
         <Box id="hide" position="sticky" top="0">
