@@ -138,6 +138,8 @@ function App() {
     return (
 
       <ChakraProvider theme={theme}>
+        <ColorModeSwitcher />
+
         <Box id="hide" position="sticky" top="0">
           <HStack display="flex" justifyContent="space-evenly">
             <Heading backgroundColor="#1A202C">
