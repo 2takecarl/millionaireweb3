@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/millionaireweb3/static/css/main.07ba5a8f.css",
+    "main.js": "/millionaireweb3/static/js/main.90e97625.js",
+    "static/js/787.28cb0dcd.chunk.js": "/millionaireweb3/static/js/787.28cb0dcd.chunk.js",
+    "static/media/dude.png": "/millionaireweb3/static/media/dude.cdc6f1216f9b703ddc94.png",
+    "static/media/arrow.svg": "/millionaireweb3/static/media/arrow.9b4362f4811a129041e64e6b6a906da6.svg",
+    "static/media/logo.svg": "/millionaireweb3/static/media/logo.034ef726eb08f413c8e9ff1b0abe7414.svg",
+    "static/media/Untitled-1.svg": "/millionaireweb3/static/media/Untitled-1.6c89f59f49c8f2b3ae828c02e81276c0.svg",
+    "index.html": "/millionaireweb3/index.html",
+    "main.07ba5a8f.css.map": "/millionaireweb3/static/css/main.07ba5a8f.css.map",
+    "main.90e97625.js.map": "/millionaireweb3/static/js/main.90e97625.js.map",
+    "787.28cb0dcd.chunk.js.map": "/millionaireweb3/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ba5a8f.css",
+    "static/js/main.90e97625.js"
+  ]
+}
