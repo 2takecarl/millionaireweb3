@@ -12,7 +12,7 @@ export const Logo = props => {
 
   const animation = prefersReducedMotion
     ? undefined
-    : `${spin} infinite 20s linear`;
+    : `${spin} infinite 2s ease-in-out`;
 
   return <Image animation={animation} src={logo} {...props} />;
 };
