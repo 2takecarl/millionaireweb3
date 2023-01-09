@@ -133,13 +133,6 @@ function App() {
     document.getElementById("section3").scrollIntoView({ behavior: 'smooth' });
   }
 
-  const config = {
-    initialColorMode: 'dark',
-    useSystemColorMode: false,
-  }
-
-  theme = extendTheme({ config })
-
   if (windowSize == "lg") {
 
     return (
