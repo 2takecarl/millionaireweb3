@@ -3,6 +3,9 @@
     transition: opacity 0.2s linear;
 }
 
+.root{
+    background-color: #1A202C;
+}
 
 
 @keyframes show{
