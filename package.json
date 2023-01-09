@@ -1,5 +1,5 @@
 {
-  "homepage": "https://millionaireweb3.com",
+  "homepage": "millionaireweb3.com",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +23,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && gh-pages -d build"
+    "add-domain": "echo \"millionaireweb3.com\" > build/CNAME",
+    "deploy": "npm run add-domain && gh-pages -d build",
+    "bd": "npm run build && npm run deploy"
   },
   "eslintConfig": {
     "extends": "react-app"
