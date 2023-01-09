@@ -135,9 +135,8 @@ function App() {
 
     return (
 
-      <ChakraProvider theme={theme} id="body">
+      <ChakraProvider id="body">
 
-        <ColorModeSwitcher />
 
         <Box id="hide" position="sticky" top="0">
           <HStack display="flex" justifyContent="space-evenly">
